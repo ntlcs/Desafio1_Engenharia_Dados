@@ -24,7 +24,7 @@ def aggregate_data(weather_data, books_data):
     return aggregated_data
 
 # Substitua 'sua_api_key' pela chave da API OpenWeatherMap
-api_key = 'sua_api_key'
+api_key = '9220ecc19c465eadd174cfb7a9a9c464'
 city = 'London'  # Você pode alterar para a cidade de sua escolha
 
 # Coletando dados da API
